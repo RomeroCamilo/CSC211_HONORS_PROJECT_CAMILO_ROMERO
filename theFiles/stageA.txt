@@ -1,0 +1,14 @@
+Life Stage	                    	    Recommended Amount
+Birth to 6 months		400 mcg RAE
+Infants 7–12 months		500 mcg RAE
+Children 1–3 years		300 mcg RAE
+Children 4–8 years		400 mcg RAE
+Children 9–13 years		600 mcg RAE
+Teen boys 14–18 years		900 mcg RAE
+Teen girls 14–18 years		700 mcg RAE
+Adult men			900 mcg RAE
+Adult women			700 mcg RAE
+Pregnant teens		750 mcg RAE
+Pregnant women		770 mcg RAE
+Breastfeeding teens		1,200 mcg RAE
+Breastfeeding women		1,300 mcg RAE
