@@ -1,0 +1,13 @@
+DESIGNED BY: Camilo Romero
+
+Major: Computer Science, Sophomore
+
+PROFESSOR: Dr.Azhar
+
+School: BMCC 
+
+COURSE: CSC 211 Honors
+
+VERSION 1.0: Submitted on December 16, 2021
+
+PURPOSE: This is an informative GUI that will present to the user facts about several different vitamins that are essential to our wellbeing. Without health, there won't be much we can do, health is always the priorty.
