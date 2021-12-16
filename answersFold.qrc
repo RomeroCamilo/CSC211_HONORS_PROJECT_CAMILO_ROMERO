@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/answers">
+        <file>answers/answer1.txt</file>
+        <file>answers/answer2.txt</file>
+    </qresource>
+</RCC>

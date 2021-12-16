@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imagess">
+        <file>img/honorsBackground3.jpeg</file>
+        <file>img/background6.jpg</file>
+        <file>img/deficiencyImage.jpg</file>
+        <file>img/vitaminDeficiency2.png</file>
+    </qresource>
+</RCC>

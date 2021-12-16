@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/files">
+        <file>whatK.txt</file>
+        <file>whatE.txt</file>
+        <file>whatD.txt</file>
+        <file>whatC.txt</file>
+        <file>whatB.txt</file>
+        <file>whatA.txt</file>
+        <file>strong.txt</file>
+        <file>stageK.txt</file>
+        <file>stageE.txt</file>
+        <file>stageD.txt</file>
+        <file>stageC.txt</file>
+        <file>stageB.txt</file>
+        <file>stageA.txt</file>
+        <file>sourceK.txt</file>
+        <file>sourceE.txt</file>
+        <file>sourceD.txt</file>
+        <file>sourceC.txt</file>
+        <file>sourceB.txt</file>
+        <file>sourceA.txt</file>
+        <file>metabolism.txt</file>
+        <file>immunity.txt</file>
+        <file>deficiency.txt</file>
+        <file>answer2.txt</file>
+        <file>answer1.txt</file>
+        <file>aboutMe.txt</file>
+    </qresource>
+</RCC>

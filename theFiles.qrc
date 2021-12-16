@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>theFiles/deficiency.txt</file>
+        <file>theFiles/immunity.txt</file>
+        <file>theFiles/metabolism.txt</file>
+        <file>theFiles/sourceA.txt</file>
+        <file>theFiles/sourceB.txt</file>
+        <file>theFiles/sourceC.txt</file>
+        <file>theFiles/sourceD.txt</file>
+        <file>theFiles/sourceE.txt</file>
+        <file>theFiles/sourceK.txt</file>
+        <file>theFiles/stageA.txt</file>
+        <file>theFiles/stageB.txt</file>
+        <file>theFiles/stageC.txt</file>
+        <file>theFiles/stageD.txt</file>
+        <file>theFiles/stageE.txt</file>
+        <file>theFiles/stageK.txt</file>
+        <file>theFiles/strong.txt</file>
+        <file>theFiles/whatA.txt</file>
+        <file>theFiles/whatB.txt</file>
+        <file>theFiles/whatC.txt</file>
+        <file>theFiles/whatD.txt</file>
+        <file>theFiles/whatE.txt</file>
+        <file>theFiles/whatK.txt</file>
+    </qresource>
+</RCC>

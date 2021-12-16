@@ -1,0 +1,11 @@
+Life Stage	Recommended Amount
+Birth to 6 months		2.0 mcg
+7–12 months			2.5 mcg
+1–3 years			30 mcg
+4–8 years			55 mcg
+9–13 years			60 mcg
+14–18 years			75 mcg
+Adult men 19 years and older	120 mcg
+Adult women 19 years and older	90 mcg
+Pregnant or breastfeeding teens	75 mcg
+Pregnant or breastfeeding women	90 mcg
