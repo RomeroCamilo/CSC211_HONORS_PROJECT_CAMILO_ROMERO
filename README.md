@@ -4,4 +4,5 @@ Users will be able to learn about several different vitamins, the importance of 
 Version 1.0.
 
 Demo of the app available throught the youtube link below
+
 https://youtu.be/eC72hI8m7uE
